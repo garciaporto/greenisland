@@ -1,0 +1,9 @@
+{
+    "lang": "es",
+    "title": "Green Island Consulting",
+    "description": "Descripción de mi Template Pug",
+    "mobileColor": "#000000",
+    "favicon": "./img/favicon.ico",
+    "logoPNG": "./img/logo.png",
+    "logoSVG": "./img/logo.svg"
+}
